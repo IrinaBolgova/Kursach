@@ -5,6 +5,10 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaschetRabot.Library", "RaschetRabot.Library\RaschetRabot.Library.csproj", "{E0483997-A861-4586-AD34-0AD4E969886D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaschetRabot.Tests", "RaschetRabot.Tests\RaschetRabot.Tests.csproj", "{5868CDE2-E87F-4C46-BDDC-ACC5033DBE9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaschetRabot.Web", "RaschetRabot.Web\RaschetRabot.Web.csproj", "{8E1AB45E-3B5C-409F-BE93-8220440F4563}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{E0483997-A861-4586-AD34-0AD4E969886D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0483997-A861-4586-AD34-0AD4E969886D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0483997-A861-4586-AD34-0AD4E969886D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5868CDE2-E87F-4C46-BDDC-ACC5033DBE9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5868CDE2-E87F-4C46-BDDC-ACC5033DBE9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5868CDE2-E87F-4C46-BDDC-ACC5033DBE9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5868CDE2-E87F-4C46-BDDC-ACC5033DBE9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E1AB45E-3B5C-409F-BE93-8220440F4563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1AB45E-3B5C-409F-BE93-8220440F4563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1AB45E-3B5C-409F-BE93-8220440F4563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E1AB45E-3B5C-409F-BE93-8220440F4563}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
